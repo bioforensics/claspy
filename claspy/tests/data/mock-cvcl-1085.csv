@@ -1,0 +1,18 @@
+Sample,Marker,Allele1,Allele2
+mock0,CSF1PO,12,13
+mock0,D13S317,12,
+mock0,D16S539,9,11
+mock0,D18S51,12,15
+mock0,D19S433,13,15
+mock0,D21S11,29,32.2
+mock0,D2S1338,20,23
+mock0,D3S1358,16,17
+mock0,D5S818,10,11
+mock0,D7S820,10,11
+mock0,D8S1179,13,15
+mock0,FGA,18,24
+mock0,Penta D,9,
+mock0,Penta E,17,
+mock0,TH01,9,9.3
+mock0,TPOX,8,
+mock0,vWA,18,19

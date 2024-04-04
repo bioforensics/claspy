@@ -1,0 +1,611 @@
+[
+    {
+        "meta": {
+            "identifier": "SK-HEP-1",
+            "accession": "CVCL_0525",
+            "synonyms": "SK-Hep-1; SK HEP-1; SK HEP 01; SK-Hep1; Sk-Hep1; SK Hep1; SKHEP-1; SKHEP1; SKHep1; SK_HEP1",
+            "taxid": 9606,
+            "organism": "Homo sapiens (Human)",
+            "source": "ATCC"
+        },
+        "alleles": {
+            "Amelogenin": "X",
+            "CSF1PO": "11,12",
+            "D12S391": "18",
+            "D13S317": "12,8",
+            "D16S539": "12",
+            "D18S51": "13,15",
+            "D21S11": "29,31",
+            "D2S1338": "20,23",
+            "D3S1358": "16",
+            "D5S818": "10,13",
+            "D6S1043": "11",
+            "D7S820": "11,8",
+            "D8S1179": "13,14",
+            "FGA": "17",
+            "Penta D": "13,14",
+            "TH01": "7,9",
+            "TPOX": "9",
+            "vWA": "14,17"
+        }
+    },
+    {
+        "meta": {
+            "identifier": "SK-HEP-1",
+            "accession": "CVCL_0525",
+            "synonyms": "SK-Hep-1; SK HEP-1; SK HEP 01; SK-Hep1; Sk-Hep1; SK Hep1; SKHEP-1; SKHEP1; SKHep1; SK_HEP1",
+            "taxid": 9606,
+            "organism": "Homo sapiens (Human)",
+            "source": "CCRID"
+        },
+        "alleles": {
+            "Amelogenin": "X",
+            "CSF1PO": "11,12",
+            "D12S391": "18",
+            "D13S317": "12,8",
+            "D16S539": "12",
+            "D18S51": "13,15",
+            "D19S433": "12,15.2",
+            "D21S11": "29,31",
+            "D2S1338": "20,23",
+            "D3S1358": "16",
+            "D5S818": "10,13",
+            "D6S1043": "11",
+            "D7S820": "11,8",
+            "D8S1179": "13,14",
+            "FGA": "17",
+            "Penta D": "13,14",
+            "Penta E": "13,21",
+            "TH01": "7,9",
+            "TPOX": "9",
+            "vWA": "14,17"
+        }
+    },
+    {
+        "meta": {
+            "identifier": "SK-HEP-1",
+            "accession": "CVCL_0525",
+            "synonyms": "SK-Hep-1; SK HEP-1; SK HEP 01; SK-Hep1; Sk-Hep1; SK Hep1; SKHEP-1; SKHEP1; SKHep1; SK_HEP1",
+            "taxid": 9606,
+            "organism": "Homo sapiens (Human)",
+            "source": "CLS"
+        },
+        "alleles": {
+            "Amelogenin": "X",
+            "CSF1PO": "11,12",
+            "D12S391": "18",
+            "D13S317": "12,8",
+            "D16S539": "12",
+            "D18S51": "13,15",
+            "D19S433": "12,15.2",
+            "D21S11": "29,31",
+            "D2S1338": "20,23",
+            "D3S1358": "16",
+            "D5S818": "10,13",
+            "D6S1043": "11",
+            "D7S820": "11,8",
+            "D8S1179": "13,14",
+            "FGA": "17",
+            "Penta D": "13,14",
+            "Penta E": "13,21",
+            "TH01": "7,9",
+            "TPOX": "9",
+            "vWA": "14,17"
+        }
+    },
+    {
+        "meta": {
+            "identifier": "SK-HEP-1",
+            "accession": "CVCL_0525",
+            "synonyms": "SK-Hep-1; SK HEP-1; SK HEP 01; SK-Hep1; Sk-Hep1; SK Hep1; SKHEP-1; SKHEP1; SKHep1; SK_HEP1",
+            "taxid": 9606,
+            "organism": "Homo sapiens (Human)",
+            "source": "Cosmic-CLP"
+        },
+        "alleles": {
+            "Amelogenin": "X",
+            "CSF1PO": "11,12",
+            "D12S391": "18",
+            "D13S317": "12,8",
+            "D16S539": "12",
+            "D18S51": "13,15",
+            "D21S11": "29,31",
+            "D2S1338": "20,23",
+            "D3S1358": "16",
+            "D5S818": "10,13",
+            "D6S1043": "11",
+            "D7S820": "11,8",
+            "D8S1179": "13,14",
+            "FGA": "17",
+            "Penta D": "13,14",
+            "TH01": "7,9",
+            "TPOX": "9",
+            "vWA": "14,17"
+        }
+    },
+    {
+        "meta": {
+            "identifier": "SK-HEP-1",
+            "accession": "CVCL_0525",
+            "synonyms": "SK-Hep-1; SK HEP-1; SK HEP 01; SK-Hep1; Sk-Hep1; SK Hep1; SKHEP-1; SKHEP1; SKHep1; SK_HEP1",
+            "taxid": 9606,
+            "organism": "Homo sapiens (Human)",
+            "source": "DSMZ"
+        },
+        "alleles": {
+            "Amelogenin": "X",
+            "CSF1PO": "11,12",
+            "D12S391": "18",
+            "D13S317": "12,8",
+            "D16S539": "12",
+            "D18S51": "13,15",
+            "D19S433": "12",
+            "D21S11": "29,31",
+            "D2S1338": "20,23",
+            "D3S1358": "16",
+            "D5S818": "10,13",
+            "D6S1043": "11",
+            "D7S820": "11,8",
+            "D8S1179": "13,14",
+            "FGA": "17",
+            "Penta D": "13,14",
+            "Penta E": "13,21",
+            "TH01": "7,9",
+            "TPOX": "9",
+            "vWA": "14,17"
+        }
+    },
+    {
+        "meta": {
+            "identifier": "SK-HEP-1",
+            "accession": "CVCL_0525",
+            "synonyms": "SK-Hep-1; SK HEP-1; SK HEP 01; SK-Hep1; Sk-Hep1; SK Hep1; SKHEP-1; SKHEP1; SKHep1; SK_HEP1",
+            "taxid": 9606,
+            "organism": "Homo sapiens (Human)",
+            "source": "ECACC"
+        },
+        "alleles": {
+            "Amelogenin": "X",
+            "CSF1PO": "11,12",
+            "D12S391": "18",
+            "D13S317": "12,8",
+            "D16S539": "12",
+            "D18S51": "13,15",
+            "D21S11": "29,31",
+            "D2S1338": "20,23",
+            "D3S1358": "16",
+            "D5S818": "10,13",
+            "D6S1043": "11",
+            "D7S820": "11,8",
+            "D8S1179": "13,14",
+            "FGA": "17",
+            "Penta D": "13,14",
+            "TH01": "7,9",
+            "TPOX": "9",
+            "vWA": "14,17"
+        }
+    },
+    {
+        "meta": {
+            "identifier": "SK-HEP-1",
+            "accession": "CVCL_0525",
+            "synonyms": "SK-Hep-1; SK HEP-1; SK HEP 01; SK-Hep1; Sk-Hep1; SK Hep1; SKHEP-1; SKHEP1; SKHep1; SK_HEP1",
+            "taxid": 9606,
+            "organism": "Homo sapiens (Human)",
+            "source": "KCLB"
+        },
+        "alleles": {
+            "Amelogenin": "X",
+            "CSF1PO": "11,12",
+            "D12S391": "18",
+            "D13S317": "12,8",
+            "D16S539": "12",
+            "D18S51": "13,15",
+            "D21S11": "29,31",
+            "D2S1338": "20,23",
+            "D3S1358": "16",
+            "D5S818": "10,13",
+            "D6S1043": "11",
+            "D7S820": "11,8",
+            "D8S1179": "13,14",
+            "FGA": "17",
+            "Penta D": "13,14",
+            "TH01": "7,9",
+            "TPOX": "9",
+            "vWA": "14,17"
+        }
+    },
+    {
+        "meta": {
+            "identifier": "SK-HEP-1",
+            "accession": "CVCL_0525",
+            "synonyms": "SK-Hep-1; SK HEP-1; SK HEP 01; SK-Hep1; Sk-Hep1; SK Hep1; SKHEP-1; SKHEP1; SKHep1; SK_HEP1",
+            "taxid": 9606,
+            "organism": "Homo sapiens (Human)",
+            "source": "MSKCC"
+        },
+        "alleles": {
+            "Amelogenin": "X",
+            "CSF1PO": "11,12",
+            "D12S391": "18",
+            "D13S317": "12,8",
+            "D16S539": "12",
+            "D18S51": "13,15",
+            "D19S433": "12,15.2",
+            "D21S11": "29,31",
+            "D2S1338": "20,23",
+            "D3S1358": "16",
+            "D5S818": "10,13",
+            "D6S1043": "11",
+            "D7S820": "11,8",
+            "D8S1179": "13,14",
+            "FGA": "17",
+            "Penta D": "13,14",
+            "TH01": "7,9",
+            "TPOX": "9",
+            "vWA": "14,17"
+        }
+    },
+    {
+        "meta": {
+            "identifier": "SK-HEP-1",
+            "accession": "CVCL_0525",
+            "synonyms": "SK-Hep-1; SK HEP-1; SK HEP 01; SK-Hep1; Sk-Hep1; SK Hep1; SKHEP-1; SKHEP1; SKHep1; SK_HEP1",
+            "taxid": 9606,
+            "organism": "Homo sapiens (Human)",
+            "source": "PubMed=11416159"
+        },
+        "alleles": {
+            "Amelogenin": "X",
+            "CSF1PO": "11,12",
+            "D12S391": "18",
+            "D13S317": "12,8",
+            "D16S539": "12",
+            "D18S51": "13,15",
+            "D21S11": "29,31",
+            "D2S1338": "20,23",
+            "D3S1358": "16",
+            "D5S818": "10,13",
+            "D6S1043": "11",
+            "D7S820": "11,8",
+            "D8S1179": "13,14",
+            "FGA": "17",
+            "Penta D": "13,14",
+            "TH01": "7,9",
+            "TPOX": "9",
+            "vWA": "14,17"
+        }
+    },
+    {
+        "meta": {
+            "identifier": "SK-HEP-1",
+            "accession": "CVCL_0525",
+            "synonyms": "SK-Hep-1; SK HEP-1; SK HEP 01; SK-Hep1; Sk-Hep1; SK Hep1; SKHEP-1; SKHEP1; SKHep1; SK_HEP1",
+            "taxid": 9606,
+            "organism": "Homo sapiens (Human)",
+            "source": "PubMed=25877200"
+        },
+        "alleles": {
+            "Amelogenin": "X",
+            "CSF1PO": "11,12",
+            "D12S391": "18",
+            "D13S317": "12,8",
+            "D16S539": "12",
+            "D18S51": "13,15",
+            "D19S433": "12,15.2",
+            "D21S11": "29,31",
+            "D2S1338": "20,23",
+            "D3S1358": "16",
+            "D5S818": "10,13",
+            "D6S1043": "11",
+            "D7S820": "11,8",
+            "D8S1179": "13,14",
+            "FGA": "17",
+            "Penta D": "13,14",
+            "Penta E": "13",
+            "TH01": "7,9",
+            "TPOX": "9",
+            "vWA": "14,17"
+        }
+    },
+    {
+        "meta": {
+            "identifier": "SK-HEP-1-Cas9-726",
+            "accession": "CVCL_XD84",
+            "taxid": 9606,
+            "organism": "Homo sapiens (Human)",
+            "source": "CCRID"
+        },
+        "alleles": {
+            "Amelogenin": "X",
+            "CSF1PO": "11,12",
+            "D12S391": "18",
+            "D13S317": "12,8",
+            "D16S539": "12",
+            "D18S51": "13,15",
+            "D19S433": "12,15.2",
+            "D21S11": "29,31,32",
+            "D2S1338": "20,23",
+            "D3S1358": "16",
+            "D5S818": "10,13",
+            "D6S1043": "11",
+            "D7S820": "11,8",
+            "D8S1179": "13,14",
+            "FGA": "17",
+            "Penta E": "13,21",
+            "TH01": "7,9",
+            "TPOX": "9",
+            "vWA": "14,17"
+        }
+    },
+    {
+        "meta": {
+            "identifier": "SK-HEP-1-Cas9-727",
+            "accession": "CVCL_XD85",
+            "taxid": 9606,
+            "organism": "Homo sapiens (Human)",
+            "source": "CCRID"
+        },
+        "alleles": {
+            "Amelogenin": "X",
+            "CSF1PO": "11,12",
+            "D12S391": "18",
+            "D13S317": "12,8",
+            "D16S539": "12",
+            "D18S51": "13,15",
+            "D19S433": "12,15.2",
+            "D21S11": "29,31",
+            "D2S1338": "20,23",
+            "D3S1358": "16",
+            "D5S818": "10,13",
+            "D6S1043": "11",
+            "D7S820": "11,8",
+            "D8S1179": "13,14",
+            "FGA": "17",
+            "Penta E": "13,21",
+            "TH01": "7,9",
+            "TPOX": "9",
+            "vWA": "14,17"
+        }
+    },
+    {
+        "meta": {
+            "identifier": "SK-HEP-1-Cas9-728",
+            "accession": "CVCL_XD86",
+            "taxid": 9606,
+            "organism": "Homo sapiens (Human)",
+            "source": "CCRID"
+        },
+        "alleles": {
+            "Amelogenin": "X",
+            "CSF1PO": "11,12",
+            "D12S391": "18",
+            "D13S317": "12,8",
+            "D16S539": "12",
+            "D18S51": "13,15",
+            "D19S433": "12,15.2",
+            "D21S11": "29,31,32",
+            "D2S1338": "20,23",
+            "D3S1358": "16",
+            "D5S818": "10,13",
+            "D6S1043": "11",
+            "D7S820": "11,8",
+            "D8S1179": "13,14",
+            "FGA": "17",
+            "Penta E": "13,21",
+            "TH01": "7,9",
+            "TPOX": "9",
+            "vWA": "14,17"
+        }
+    },
+    {
+        "meta": {
+            "identifier": "SK-HEP-1-Cas9-729",
+            "accession": "CVCL_XD87",
+            "taxid": 9606,
+            "organism": "Homo sapiens (Human)",
+            "source": "CCRID"
+        },
+        "alleles": {
+            "Amelogenin": "X",
+            "CSF1PO": "11,12",
+            "D12S391": "18",
+            "D13S317": "12,8",
+            "D16S539": "12",
+            "D18S51": "13,15",
+            "D19S433": "12,15.2",
+            "D21S11": "29,31,32",
+            "D2S1338": "20,23",
+            "D3S1358": "16",
+            "D5S818": "10,13",
+            "D6S1043": "11",
+            "D7S820": "11,8",
+            "D8S1179": "13,14",
+            "FGA": "17",
+            "Penta E": "13,21",
+            "TH01": "7,9",
+            "TPOX": "9",
+            "vWA": "14,17"
+        }
+    },
+    {
+        "meta": {
+            "identifier": "SK-HEP-1-Cas9-730",
+            "accession": "CVCL_XD88",
+            "taxid": 9606,
+            "organism": "Homo sapiens (Human)",
+            "source": "CCRID"
+        },
+        "alleles": {
+            "Amelogenin": "X",
+            "CSF1PO": "11,12",
+            "D12S391": "18",
+            "D13S317": "12,8",
+            "D16S539": "12",
+            "D18S51": "13,15",
+            "D19S433": "12,15.2",
+            "D21S11": "29,31,32",
+            "D2S1338": "20,23",
+            "D3S1358": "16",
+            "D5S818": "10,13",
+            "D6S1043": "11",
+            "D7S820": "11,8",
+            "D8S1179": "13,14",
+            "FGA": "17",
+            "Penta E": "13,21",
+            "TH01": "7,9",
+            "TPOX": "9",
+            "vWA": "14,17"
+        }
+    },
+    {
+        "meta": {
+            "identifier": "SK-HEP-1-Cas9-731",
+            "accession": "CVCL_XD89",
+            "taxid": 9606,
+            "organism": "Homo sapiens (Human)",
+            "source": "CCRID"
+        },
+        "alleles": {
+            "Amelogenin": "X",
+            "CSF1PO": "11,12",
+            "D12S391": "18",
+            "D13S317": "12,8",
+            "D16S539": "12",
+            "D18S51": "13,15",
+            "D19S433": "12,15.2",
+            "D21S11": "29,31,32",
+            "D2S1338": "20,23",
+            "D3S1358": "16",
+            "D5S818": "10,13",
+            "D6S1043": "11",
+            "D7S820": "11,8",
+            "D8S1179": "13,14",
+            "FGA": "17",
+            "Penta E": "13,21",
+            "TH01": "7,9",
+            "TPOX": "9",
+            "vWA": "14,17"
+        }
+    },
+    {
+        "meta": {
+            "identifier": "SK-HEP-1-Cas9-732",
+            "accession": "CVCL_XD90",
+            "taxid": 9606,
+            "organism": "Homo sapiens (Human)",
+            "source": "CCRID"
+        },
+        "alleles": {
+            "Amelogenin": "X",
+            "CSF1PO": "11,12",
+            "D12S391": "18",
+            "D13S317": "12,8",
+            "D16S539": "12",
+            "D18S51": "13,15",
+            "D19S433": "12,15.2",
+            "D21S11": "29,31,32",
+            "D2S1338": "20,23",
+            "D3S1358": "16",
+            "D5S818": "10,13",
+            "D6S1043": "11",
+            "D7S820": "11,8",
+            "D8S1179": "13,14",
+            "FGA": "17",
+            "Penta E": "13,21",
+            "TH01": "7,9",
+            "TPOX": "9",
+            "vWA": "14,17"
+        }
+    },
+    {
+        "meta": {
+            "identifier": "SK-HEP-1-Cas9-733",
+            "accession": "CVCL_XD91",
+            "taxid": 9606,
+            "organism": "Homo sapiens (Human)",
+            "source": "CCRID"
+        },
+        "alleles": {
+            "Amelogenin": "X",
+            "CSF1PO": "11,12",
+            "D12S391": "18",
+            "D13S317": "12,8",
+            "D16S539": "12",
+            "D18S51": "13,15",
+            "D19S433": "12,15.2",
+            "D21S11": "29,31,32",
+            "D2S1338": "20,23",
+            "D3S1358": "16",
+            "D5S818": "10,13",
+            "D6S1043": "11",
+            "D7S820": "11,8",
+            "D8S1179": "13,14",
+            "FGA": "17",
+            "Penta E": "13,21",
+            "TH01": "7,9",
+            "TPOX": "9",
+            "vWA": "14,17"
+        }
+    },
+    {
+        "meta": {
+            "identifier": "SK-HEP-1-Cas9-734",
+            "accession": "CVCL_XD92",
+            "taxid": 9606,
+            "organism": "Homo sapiens (Human)",
+            "source": "CCRID"
+        },
+        "alleles": {
+            "Amelogenin": "X",
+            "CSF1PO": "11,12",
+            "D12S391": "18",
+            "D13S317": "12,8",
+            "D16S539": "12",
+            "D18S51": "13,15",
+            "D19S433": "12,15.2",
+            "D21S11": "29,31,32",
+            "D2S1338": "20,23",
+            "D3S1358": "16",
+            "D5S818": "10,13",
+            "D6S1043": "11",
+            "D7S820": "11,8",
+            "D8S1179": "13,14",
+            "FGA": "17",
+            "Penta E": "13,21",
+            "TH01": "7,9",
+            "TPOX": "9",
+            "vWA": "14,17"
+        }
+    },
+    {
+        "meta": {
+            "identifier": "SK-HEP-1-Cas9-735",
+            "accession": "CVCL_XD93",
+            "taxid": 9606,
+            "organism": "Homo sapiens (Human)",
+            "source": "CCRID"
+        },
+        "alleles": {
+            "Amelogenin": "X",
+            "CSF1PO": "11,12",
+            "D12S391": "18",
+            "D13S317": "12,8",
+            "D16S539": "12",
+            "D18S51": "13,15",
+            "D19S433": "12,15.2",
+            "D21S11": "29,31,32",
+            "D2S1338": "20,23",
+            "D3S1358": "16",
+            "D5S818": "10,13",
+            "D6S1043": "11",
+            "D7S820": "11,8",
+            "D8S1179": "13,14",
+            "FGA": "17",
+            "Penta E": "13,21",
+            "TH01": "7,9",
+            "TPOX": "9",
+            "vWA": "14,17"
+        }
+    }
+]

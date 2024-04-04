@@ -1,0 +1,8 @@
+.vscode/
+__pycache__/
+.coverage
+sandbox/
+claspy.egg-info/
+claspy/cellosaurus.txt
+claspy/cellosaurus.json
+.DS_Store

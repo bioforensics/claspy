@@ -1,0 +1,7 @@
+[report]
+show_missing = True
+omit =
+    claspy/_version.py
+
+[run]
+branch = True

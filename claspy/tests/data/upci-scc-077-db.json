@@ -1,0 +1,54 @@
+[
+    {
+        "meta": {
+            "sample": "query"
+        },
+        "alleles": {
+            "Amelogenin": "X,Y",
+            "CSF1PO": "10",
+            "D13S317": "11",
+            "D16S539": "11,13",
+            "D19S433": "12,14",
+            "D21S11": "27,29",
+            "D3S1358": "14",
+            "D5S818": "9",
+            "D7S820": "7",
+            "D8S1179": "14,15",
+            "FGA": "21",
+            "Penta D": "13",
+            "Penta E": "13,7",
+            "TH01": "9.3",
+            "TPOX": "11",
+            "vWA": "17,18"
+        }
+    },
+    {
+        "meta": {
+            "identifier": "UPCI-SCC-077",
+            "accession": "CVCL_C043",
+            "synonyms": "UPCI:SCC077; SCC077",
+            "taxid": 9606,
+            "organism": "Homo sapiens (Human)",
+            "source": "DSMZ"
+        },
+        "alleles": {
+            "Amelogenin": "X,Y",
+            "CSF1PO": "10",
+            "D16S539": "11,13",
+            "D18S51": "13",
+            "D19S433": "12,14",
+            "D21S11": "27,29",
+            "D2S1338": "17",
+            "D3S1358": "14",
+            "D5S818": "9",
+            "D7S820": "8",
+            "D8S1179": "14,15",
+            "FGA": "21",
+            "Penta D": "13",
+            "Penta E": "13,7",
+            "TH01": "9.3",
+            "TPOX": "11,12",
+            "vWA": "17,18"
+        }
+    }
+]
